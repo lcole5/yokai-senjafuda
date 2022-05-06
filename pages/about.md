@@ -2,6 +2,8 @@
 title: About
 layout: about
 permalink: /about.html
+# Yōkai Senjafuda: Stories about Ghosts and Monsters
+## Senjafuda collections at the University of Oregon
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
